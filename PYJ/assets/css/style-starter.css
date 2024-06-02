@@ -16309,7 +16309,7 @@ h3.title-big {
 
 /* footer */
 .w3l-footer-22 .footer-sub {
-  padding: 80px 0;
+  padding: 30px 0;
   background: var(--footer-color);
 }
 
@@ -16371,9 +16371,7 @@ h3.title-big {
 
 .w3l-footer-22 ul.social li a {
   color: #fff;
-  width: 35px;
   height: 35px;
-  background: rgba(255, 255, 255, 0.06);
   display: inline-block;
   border-radius: 50%;
   text-align: center;
@@ -16736,7 +16734,7 @@ h3.title-big {
 }
 
 .w3l-text-6 .text-6-mian p {
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 @media screen and (max-width: 991px) {
